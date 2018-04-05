@@ -3256,10 +3256,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 605265201}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 794fd8261bfeca24b870a2973b3c241b, type: 3}
+  m_Script: {fileID: 11500000, guid: 7eee4951f1d17cf409fad6e71f8e2ca8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animator: {fileID: 888251483}
+  moveAC: {fileID: 1044188297}
+  artAC: {fileID: 888251483}
 --- !u!114 &605265204
 MonoBehaviour:
   m_ObjectHideFlags: 0
